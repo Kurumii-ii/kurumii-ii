@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/Kurumii-ii/kurumii-ii/blob/main/Miku%20Nakano.jpg" width="520" height="300"/>
-</p>
-
 <h1 align="center">Hi, I'm Kurumii</a></h1>
 
 <p align="center">
